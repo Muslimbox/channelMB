@@ -7,10 +7,10 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097828/tv%20sunnah/q5rxx5qtdhhvowbezahl.png" group-title="TV Sunnah",Niaga TV 
-https://h1.intechmedia.net/intech/ch10.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097824/tv%20sunnah/ujbhji1ixwgeeevr4x3o.png" group-title="TV Sunnah",Rodja TV
-http://210.210.155.35/qwr9ew/s/s14/02.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/pejani5yoer06ys0e1hv.png" group-title="TV Sunnah",Ashiil TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
