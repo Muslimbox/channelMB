@@ -13,7 +13,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
 https://rodjatv.com/rodjatv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097834/tv%20sunnah/pejani5yoer06ys0e1hv.png" group-title="TV Sunnah",Ashiil TV 
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/ajwakids/image/upload/v1683097838/tv%20sunnah/hfecvrsmgjdfrf6u0htd.png" group-title="TV Sunnah",Surau TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
